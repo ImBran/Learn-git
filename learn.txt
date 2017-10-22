@@ -1,1 +1,2 @@
 I'm learning what the fuck GIT is.
+This is the second commit to learn.txt
